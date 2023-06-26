@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>arcoiris.png</file>
+        <file>favicon.png</file>
+    </qresource>
+</RCC>
